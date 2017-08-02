@@ -21,8 +21,9 @@ to adding the jar to the class path, and booting up a container
     
     /*  Usage  */
     
+    //this will get automaticaly loaded for you
+    
     @Wire 
     private Component c; 
     
-   this will get automaticaly loaded for you
 ```
